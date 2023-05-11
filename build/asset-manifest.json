@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cmpe-202-Frontend/static/css/main.17109a99.css",
+    "main.js": "/Cmpe-202-Frontend/static/js/main.7c17312c.js",
+    "static/js/496.ded7b590.chunk.js": "/Cmpe-202-Frontend/static/js/496.ded7b590.chunk.js",
+    "index.html": "/Cmpe-202-Frontend/index.html",
+    "main.17109a99.css.map": "/Cmpe-202-Frontend/static/css/main.17109a99.css.map",
+    "main.7c17312c.js.map": "/Cmpe-202-Frontend/static/js/main.7c17312c.js.map",
+    "496.ded7b590.chunk.js.map": "/Cmpe-202-Frontend/static/js/496.ded7b590.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17109a99.css",
+    "static/js/main.7c17312c.js"
+  ]
+}
